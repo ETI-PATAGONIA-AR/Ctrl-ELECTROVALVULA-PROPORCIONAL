@@ -17,7 +17,8 @@ a 24v .
 
 ![IMG_20211207_164457](https://github.com/user-attachments/assets/ab8f2056-ebd8-4d09-b574-107d51684abb)
 
-_**Puedes ver un video funcionando:**_
+_**Puedes ver el siguiente video funcionando:**_
+
 [![CtrlVOZ_VR3_v2](https://img.youtube.com/vi/wlo6DzaigQE/0.jpg)](https://www.youtube.com/watch?v=wlo6DzaigQE)
 
 
